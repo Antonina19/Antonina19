@@ -1,4 +1,13 @@
-### Hi there 👋
+<h3 align='center'> Hi :v:, I'm Antonina Puliavina </h3>
+
+:woman_technologist: I have been working for more than **6 years** in Testing.
+
+:woman_student: I'm currently studying automation tools and techniques at **QA.guru school**.
+
+:luggage: I like to travel :airplane: :united_arab_emirates: :belarus: :de: :egypt: :fr: :greece: :croatia: :it: :thailand: :tr: :sri_lanka:
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Antonina19&theme=buefy&show_icons=true&locale=en" alt="Antonina19" /></p>
+
 
 <!--
 **Antonina19/Antonina19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
