@@ -2,7 +2,7 @@
 
 :woman_technologist: I have been working for more than **6 years** in Testing.
 
-:woman_student: I'm currently studying automation tools and techniques at **QA.guru school**.
+:woman_student: Graduated from automation training in Java at **QA.guru school**.
 
 :luggage: I like to travel :airplane: :united_arab_emirates: :belarus: :de: :egypt: :fr: :greece: :croatia: :it: :thailand: :tr: :sri_lanka:
 
